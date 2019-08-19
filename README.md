@@ -10,5 +10,5 @@ Exercise on resizable panes to create a before-after effect.
 - CSS
 - JavaScript/Jquery
 
-<img src='./resizablepanes.gif' />
+<img height='300px' width='200px' src='./resizablepanes.gif' />
 
